@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Active Directory Implementation               | <a href="https://github.com/poulmhiripiri/AD-Implememtation">Active Directory Lab</a>|
 | WAZUH SIEM Implementation and Log Analysis          | <a href="https://github.com/poulmhiripiri/Wazuh-SIEM-LAB/tree/main">Wazuh SIEM Lab</a>|
 | Fortinet Endpoint Implementation         | <a href="https://github.com/poulmhiripiri/Fortinet-Endpoint-Implementation">Fortinet Endpoint Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Splunk SIEM Installation and Analysis JSON files  | <a href="https://google.com">Detection Lab</a>|
 |Static Webhosting, Rote53-S3-WAF-CloudFront-ACM         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
