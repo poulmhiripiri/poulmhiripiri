@@ -3,9 +3,9 @@
 
 📍 Evesham, United Kingdom | 📧 pmhiripiri@gmail.com | 📱 +447360125077
 
-## Seasoned Infrastructure Engineer with 10+ years of progressive experience spanning ISP operations, core network engineering, and enterprise banking infrastructure. Currently expanding expertise in cloud technologies and cybersecurity through advanced AWS certifications and hands-on security tool implementation. Proven track record of delivering multi-million dollar infrastructure projects and driving digital transformation initiatives.
+# Seasoned Infrastructure Engineer with 10+ years of progressive experience spanning ISP operations, core network engineering, and enterprise banking infrastructure. Currently expanding expertise in cloud technologies and cybersecurity through advanced AWS certifications and hands-on security tool implementation. Proven track record of delivering multi-million dollar infrastructure projects and driving digital transformation initiatives.
 
-## Technical Journey:
+# Technical Journey:
 
 - ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services
 - Banking Infrastructure (2019-2022): Led enterprise-scale network and server infrastructure at First Capital Bank, managing 14M USD projects
@@ -34,9 +34,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | WAZUH SIEM Implementation and Log Analysis          | <a href="https://github.com/poulmhiripiri/Wazuh-SIEM-LAB/tree/main">Wazuh SIEM Lab</a>|
 | Fortinet Endpoint Implementation         | <a href="https://github.com/poulmhiripiri/Fortinet-Endpoint-Implementation">Fortinet Endpoint Lab</a>|
 | Splunk SIEM Installation and Analysis JSON files  | <a href="https://google.com">Detection Lab</a>|
-|Static Webhosting, Rote53-S3-WAF-CloudFront-ACM         | SOC Automation Lab|
+| Static Webhosting, Rote53-S3-WAF-CloudFront-ACM +GitHub+ CodePipeline         | Cloud Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Instalation and configuration of PfSense      | PfSense Deployment Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
