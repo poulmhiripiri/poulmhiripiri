@@ -1,6 +1,8 @@
 # Hello, I'm Poul
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+📍 Evesham, United Kingdom | 📧 pmhiripiri@gmail.com | 📱 +447360125077
+
 [Brief Introduction - Remove this afterwards]
 
 Seasoned Infrastructure Engineer with 10+ years of progressive experience spanning ISP operations, core network engineering, and enterprise banking infrastructure. Currently expanding expertise in cloud technologies and cybersecurity through advanced AWS certifications and hands-on security tool implementation. Proven track record of delivering multi-million dollar infrastructure projects and driving digital transformation initiatives.
