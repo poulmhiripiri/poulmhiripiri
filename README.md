@@ -3,15 +3,13 @@
 
 📍 Evesham, United Kingdom | 📧 pmhiripiri@gmail.com | 📱 +447360125077
 
-[Brief Introduction - Remove this afterwards]
-
-Seasoned Infrastructure Engineer with 10+ years of progressive experience spanning ISP operations, core network engineering, and enterprise banking infrastructure. Currently expanding expertise in cloud technologies and cybersecurity through advanced AWS certifications and hands-on security tool implementation. Proven track record of delivering multi-million dollar infrastructure projects and driving digital transformation initiatives.
+## Seasoned Infrastructure Engineer with 10+ years of progressive experience spanning ISP operations, core network engineering, and enterprise banking infrastructure. Currently expanding expertise in cloud technologies and cybersecurity through advanced AWS certifications and hands-on security tool implementation. Proven track record of delivering multi-million dollar infrastructure projects and driving digital transformation initiatives.
 
 ## Technical Journey:
 
 - ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services
- - Banking Infrastructure (2019-2022): Led enterprise-scale network and server infrastructure at First Capital Bank, managing 14M USD projects
- - Cloud & Security Evolution (2024-Present): Advancing in AWS architecture, cybersecurity, and modern monitoring solutions
+- Banking Infrastructure (2019-2022): Led enterprise-scale network and server infrastructure at First Capital Bank, managing 14M USD projects
+- Cloud & Security Evolution (2024-Present): Advancing in AWS architecture, cybersecurity, and modern monitoring solutions
 
 # Current Objective
 Seeking to leverage my extensive network infrastructure background and emerging cloud/cybersecurity expertise to drive innovative, secure, and scalable solutions in modern enterprise environments. Passionate about bridging traditional infrastructure with cloud-native technologies while maintaining robust security postures.
@@ -24,7 +22,6 @@ Seeking to leverage my extensive network infrastructure background and emerging 
  - Enterprise Solutions: Scaling secure, high-availability systems that align with business objectives
 
 # Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
