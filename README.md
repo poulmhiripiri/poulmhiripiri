@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Fortinet Endpoint Implementation         | <a href="https://github.com/poulmhiripiri/Fortinet-Endpoint-Implementation">Fortinet Endpoint Lab</a>|
 | Splunk SIEM Installation and Analysis JSON files  | <a href="https://google.com">Detection Lab</a>|
 | Static Webhosting, Rote53-S3-WAF-CloudFront-ACM +GitHub+ CodePipeline         | Cloud Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Controlled Environment Penetration Testing Tools    | Penetration Testing Lab|
 | Instalation and configuration of PfSense      | PfSense Deployment Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
