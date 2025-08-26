@@ -7,7 +7,7 @@ Seasoned Infrastructure Engineer with 10+ years of progressive experience spanni
 
 # Technical Journey:
 
-- ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services with big players name NAPAFRICA, 
+- ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services with big players name NAPAFRICA, Intenet Solutions, Tata Communications just to ame a few.
 - Banking Infrastructure (2019-2022): Led enterprise-scale network and server infrastructure at First Capital Bank, managing 14M USD projects
 - Cloud & Security Evolution (2024-Present): Advancing in AWS architecture, cybersecurity, and modern monitoring solutions
 
@@ -17,7 +17,8 @@ Seeking to leverage my extensive network infrastructure background and emerging 
 # Key Focus Areas:
 
  - Cloud Architecture: AWS services, hybrid cloud solutions, and infrastructure automation
- - Cybersecurity: SIEM implementation (WAZUH, Sentinel, Splunk), vulnerability management, and security monitoring
+ - Cybersecurity: SIEM implementation (WAZUH, Sentinel, Splunk)
+ - Vulnerability management, and security monitoring
  - DevOps Integration: Containerization (Docker, Kubernetes), CI/CD pipelines, and infrastructure as code
  - Enterprise Solutions: Scaling secure, high-availability systems that align with business objectives
 
