@@ -7,7 +7,7 @@ Seasoned Infrastructure Engineer with 10+ years of progressive experience spanni
 
 # Technical Journey:
 
-- ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services with big players name NAPAFRICA, Intenet Solutions, Tata Communications just to ame a few.
+- ISP Foundation (2008-2018): Built expertise in WAN/LAN solutions, MPLS services, and network peering at Africa Online and Dandemutande Internet Services with big players name NAPAFRICA, Intenet Solutions, Tata Communications just to name a few.
 - Banking Infrastructure (2019-2022): Led enterprise-scale network and server infrastructure at First Capital Bank, managing 14M USD projects
 - Cloud & Security Evolution (2024-Present): Advancing in AWS architecture, cybersecurity, and modern monitoring solutions
 
