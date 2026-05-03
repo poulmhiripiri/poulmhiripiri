@@ -86,7 +86,7 @@ I am targeting roles such as:
 
 | Skill / Capability | Recruiter-Facing Project |
 |---|---|
-| AWS Cloud Security Architecture, S3, CloudFront OAC, ACM, Route 53, CI/CD | [Secure AWS Static Website CI/CD & Cloud Security Architecture] https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps |
+| AWS Cloud Security Architecture, S3, CloudFront OAC, ACM, Route 53, CI/CD | [Secure AWS Static Website CI/CD & Cloud Security Architecture] (https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps) |
 | Wazuh SIEM Deployment, Endpoint Monitoring, Threat Intelligence and Slack Alerting | [Enterprise Wazuh SIEM Deployment](YOUR_WAZUH_PROJECT_REPOSITORY_URL_HERE) |
 | Phishing Investigation, IOC Analysis, Email Security and DNS Controls | [Phishing Email Investigation & DNS Security Controls](YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE) |
 | Vulnerability Management, Asset Visibility, Patch Governance and Cyber Risk Reporting | [Enterprise Qualys VMDR Cyber Risk Governance Lab](YOUR_QUALYS_PROJECT_REPOSITORY_URL_HERE) |
