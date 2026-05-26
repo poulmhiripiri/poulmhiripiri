@@ -86,15 +86,16 @@ I am targeting roles such as:
 
 | Skill / Capability | Recruiter-Facing Project |
 |---|---|
-| AWS Cloud Security Architecture, S3, CloudFront OAC, ACM, Route 53, CI/CD | [Secure AWS Static Website CI/CD & Cloud Security Architecture] (https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps) |
+| AWS Cloud Security Architecture, S3, CloudFront OAC, ACM, Route 53, CI/CD | [Secure AWS Static Website CI/CD & Cloud Security Architecture](https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps) |
 | Wazuh SIEM Deployment, Endpoint Monitoring, Threat Intelligence and Slack Alerting | [Enterprise Wazuh SIEM Deployment](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting) |
-| Phishing Investigation, IOC Analysis, Email Security and DNS Controls | [Phishing Email Investigation & DNS Security Controls](YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE) |
-| Vulnerability Management, Asset Visibility, Patch Governance and Cyber Risk Reporting | [Enterprise Qualys VMDR Cyber Risk Governance Lab](YOUR_QUALYS_PROJECT_REPOSITORY_URL_HERE) |
-| Endpoint Security, Patch Management, Device Control and Browser Hardening | [ManageEngine Endpoint Central Security Engineering](YOUR_MANAGEENGINE_PROJECT_REPOSITORY_URL_HERE) |
-| Endpoint Compliance, Access Control and Zero Trust-Style Policy Enforcement | [OPSWAT MetaDefender Endpoint Policy Engineering](YOUR_OPSWAT_PROJECT_REPOSITORY_URL_HERE) |
-| Active Directory, Windows Server, DNS, DHCP, GPO and Enterprise Lab Operations | [Enterprise IT Operations and Security Lab](YOUR_ENTERPRISE_IT_LAB_REPOSITORY_URL_HERE) |
-| Network Security, Firewalling, Monitoring and Infrastructure Resilience | [Network & Infrastructure Security Portfolio](YOUR_NETWORK_SECURITY_PROJECT_REPOSITORY_URL_HERE) |
-| SOC Investigation, Log Analysis, SIEM Alerts and Incident Response Workflow | [SOC / Detection Engineering Lab](YOUR_SOC_DETECTION_PROJECT_REPOSITORY_URL_HERE) |
+| Phishing Investigation, IOC Analysis, Email Security and DNS Controls | [Phishing Email Investigation & DNS Security Controls](https://github.com/poulmhiripiri/Phishing-Email-Investigation-IOC-Analysis-Email-Security-DNS-Controls) |
+| Vulnerability Management, Asset Visibility, Patch Governance and Cyber Risk Reporting | [Enterprise Qualys VMDR Cyber Risk Governance Lab](https://github.com/poulmhiripiri/Enterprise-Qualys-VMDR-Cyber-Risk-Governance-Lab) |
+| Endpoint Security, Patch Management, Device Control and Browser Hardening | [ManageEngine Endpoint Central Security Engineering](https://github.com/poulmhiripiri/Enterprise-Endpoint-Security-Engineering-with-ManageEngine-Endpoint-Central) |
+| Endpoint Compliance, Access Control and Zero Trust-Style Policy Enforcement | [OPSWAT MetaDefender Endpoint Policy Engineering](https://github.com/poulmhiripiri/Enterprise-Endpoint-Security-Policy-Engineering-with-OPSWAT-MetaDefender) |
+| Active Directory, Windows Server, DNS, DHCP, GPO and Enterprise Lab Operations | [Enterprise IT Operations and Security Lab](https://github.com/poulmhiripiri/enterprise-it-operations-security-lab) |
+| Network Security, Firewalling, Monitoring and Infrastructure Resilience | [Network & Infrastructure Security Portfolio](https://github.com/poulmhiripiri/enterprise-it-operations-security-lab) |
+| SOC Investigation, Log Analysis, SIEM Alerts, Monitorig Theat Intelligence Slack Alerting and Incident Response Workflow  | [SOC / Detection Engineering Lab](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting) |
+| Linux-SSH-MFA-Hardening-with-Google-Authenticator | [Linux-SSH-MFA-Hardening-with-Google-Authenticator Lab](https://github.com/poulmhiripiri/Linux-SSH-MFA-Hardening-with-Google-Authenticator-PAM) |
 
 ---
 
