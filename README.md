@@ -103,7 +103,7 @@ I am targeting roles such as:
 
 ### 1. Secure AWS Static Website CI/CD & Cloud Security Architecture
 
-**Project Link:** [View Project](YOUR_AWS_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps)
 
 Designed and implemented a secure AWS-hosted static website architecture using GitHub, GitHub Desktop, AWS CodePipeline, private S3 origin access through CloudFront Origin Access Control, HTTPS via AWS Certificate Manager and DNS routing through Route 53.
 
@@ -113,7 +113,7 @@ Designed and implemented a secure AWS-hosted static website architecture using G
 
 ### 2. Enterprise Wazuh SIEM Deployment with Endpoint Monitoring, Threat Intelligence and Slack Alerting
 
-**Project Link:** [View Project](YOUR_WAZUH_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting)
 
 Built and documented a controlled Wazuh SIEM lab covering manager/dashboard deployment, Windows and Linux agent onboarding, File Integrity Monitoring, Microsoft Defender event visibility, VirusTotal enrichment, vulnerability detection and Slack alert delivery.
 
@@ -123,7 +123,7 @@ Built and documented a controlled Wazuh SIEM lab covering manager/dashboard depl
 
 ### 3. Phishing Email Investigation, IOC Analysis, Email Security and DNS Controls
 
-**Project Link:** [View Project](YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting)
 
 Created a SOC-style phishing investigation project covering email header review, suspicious sender infrastructure, IOC documentation, malicious URL review, sandbox-style analysis and DNS/email security controls including SPF, DKIM, DMARC and MX records.
 
@@ -133,7 +133,7 @@ Created a SOC-style phishing investigation project covering email header review,
 
 ### 4. Enterprise Qualys VMDR Cyber Risk Governance Lab
 
-**Project Link:** [View Project](YOUR_QUALYS_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Enterprise-Qualys-VMDR-Cyber-Risk-Governance-Lab)
 
 Created a vulnerability and cyber-risk governance lab covering asset inventory, vulnerability detection, patch governance, certificate risk visibility and management-style reporting.
 
@@ -143,7 +143,7 @@ Created a vulnerability and cyber-risk governance lab covering asset inventory, 
 
 ### 5. Enterprise Endpoint Security Engineering with ManageEngine Endpoint Central
 
-**Project Link:** [View Project](YOUR_MANAGEENGINE_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Enterprise-Endpoint-Security-Engineering-with-ManageEngine-Endpoint-Central)
 
 Documented enterprise endpoint security controls using ManageEngine Endpoint Central, including malware/ransomware defence, vulnerability and patch management, USB/device control, browser hardening and operational reporting.
 
@@ -153,7 +153,7 @@ Documented enterprise endpoint security controls using ManageEngine Endpoint Cen
 
 ### 6. Enterprise Endpoint Security Policy Engineering with OPSWAT MetaDefender
 
-**Project Link:** [View Project](YOUR_OPSWAT_PROJECT_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/Enterprise-Endpoint-Security-Policy-Engineering-with-OPSWAT-MetaDefender)
 
 Built a controlled endpoint security policy lab using OPSWAT MetaDefender IT Access across Windows, Linux, Android and iOS test endpoints, covering malware protection, removable media restriction, compliance checks and policy-based access decisions.
 
@@ -163,7 +163,7 @@ Built a controlled endpoint security policy lab using OPSWAT MetaDefender IT Acc
 
 ### 7. Enterprise IT Operations and Security Lab
 
-**Project Link:** [View Project](YOUR_ENTERPRISE_IT_LAB_REPOSITORY_URL_HERE)
+**Project Link:** [View Project](https://github.com/poulmhiripiri/enterprise-it-operations-security-lab)
 
 Built a virtual enterprise lab showing Active Directory, Windows Server, FortiGate-style firewalling, PRTG monitoring, Uptime Kuma, Wazuh and infrastructure/security operations.
 
@@ -256,9 +256,9 @@ The projects demonstrate that I can:
 
 For professional opportunities, please contact me via LinkedIn or email.
 
-🌐 Portfolio: [YOUR_PORTFOLIO_WEBSITE_URL_HERE](YOUR_PORTFOLIO_WEBSITE_URL_HERE)  
-🔗 LinkedIn: [YOUR_LINKEDIN_PROFILE_URL_HERE](YOUR_LINKEDIN_PROFILE_URL_HERE)  
-📧 Email: [YOUR_PROFESSIONAL_EMAIL_HERE](mailto:YOUR_PROFESSIONAL_EMAIL_HERE)
+🌐 Portfolio: [YOUR_PORTFOLIO_WEBSITE_URL_HERE](https://github.com/poulmhiripiri/poulmhiripiri/edit/main/README.md)  
+🔗 LinkedIn: [YOUR_LINKEDIN_PROFILE_URL_HERE](www.linkedin.com/in/poul-mhiripiri)  
+📧 Email: [YOUR_PROFESSIONAL_EMAIL_HERE](mailto:poul@poulmhiripiri.co.uk, pmhiripiri@gmail.com)
 
 ---
 
@@ -267,9 +267,9 @@ For professional opportunities, please contact me via LinkedIn or email.
 Before publishing, replace the placeholders below with your live project URLs:
 
 ```text
-YOUR_LINKEDIN_PROFILE_URL_HERE
+www.linkedin.com/in/poul-mhiripiri
 YOUR_PORTFOLIO_WEBSITE_URL_HERE
-YOUR_PROFESSIONAL_EMAIL_HERE
+poul@poulmhiripiri.co.uk
 YOUR_AWS_PROJECT_REPOSITORY_URL_HERE
 YOUR_WAZUH_PROJECT_REPOSITORY_URL_HERE
 YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE
