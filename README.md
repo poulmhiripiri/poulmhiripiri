@@ -258,6 +258,6 @@ For professional opportunities, please contact me via LinkedIn or email.
 
 🌐 Portfolio: [GitHub](https://github.com/poulmhiripiri)  
 🔗 LinkedIn: [Poul Mhiripiri](www.linkedin.com/in/poul-mhiripiri)  
-📧 Email: [YOUR_PROFESSIONAL_EMAIL_HERE](mailto:poul@poulmhiripiri.co.uk, pmhiripiri@gmail.com)
+📧 Email: [mailto:poul@poulmhiripiri.co.uk, pmhiripiri@gmail.com]
 
 ---
