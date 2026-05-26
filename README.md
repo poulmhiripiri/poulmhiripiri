@@ -256,8 +256,8 @@ The projects demonstrate that I can:
 
 For professional opportunities, please contact me via LinkedIn or email.
 
-🌐 Portfolio: [YOUR_PORTFOLIO_WEBSITE_URL_HERE](https://github.com/poulmhiripiri/poulmhiripiri/edit/main/README.md)  
-🔗 LinkedIn: [YOUR_LINKEDIN_PROFILE_URL_HERE](www.linkedin.com/in/poul-mhiripiri)  
+🌐 Portfolio: [GitHub](https://github.com/poulmhiripiri)  
+🔗 LinkedIn: [Poul Mhiripiri](www.linkedin.com/in/poul-mhiripiri)  
 📧 Email: [YOUR_PROFESSIONAL_EMAIL_HERE](mailto:poul@poulmhiripiri.co.uk, pmhiripiri@gmail.com)
 
 ---
