@@ -261,22 +261,3 @@ For professional opportunities, please contact me via LinkedIn or email.
 📧 Email: [YOUR_PROFESSIONAL_EMAIL_HERE](mailto:poul@poulmhiripiri.co.uk, pmhiripiri@gmail.com)
 
 ---
-
-## Link Placeholder Checklist
-
-Before publishing, replace the placeholders below with your live project URLs:
-
-```text
-www.linkedin.com/in/poul-mhiripiri
-YOUR_PORTFOLIO_WEBSITE_URL_HERE
-poul@poulmhiripiri.co.uk
-YOUR_AWS_PROJECT_REPOSITORY_URL_HERE
-YOUR_WAZUH_PROJECT_REPOSITORY_URL_HERE
-YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE
-YOUR_QUALYS_PROJECT_REPOSITORY_URL_HERE
-YOUR_MANAGEENGINE_PROJECT_REPOSITORY_URL_HERE
-YOUR_OPSWAT_PROJECT_REPOSITORY_URL_HERE
-YOUR_ENTERPRISE_IT_LAB_REPOSITORY_URL_HERE
-YOUR_NETWORK_SECURITY_PROJECT_REPOSITORY_URL_HERE
-YOUR_SOC_DETECTION_PROJECT_REPOSITORY_URL_HERE
-```
