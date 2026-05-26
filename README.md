@@ -1,8 +1,8 @@
 # Hello, I'm Poul Mhiripiri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Poul%20Mhiripiri-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poul-mhiripiri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-poulmhiripiri.co.uk-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](www.poulmhiripiri.co.uk)
-[![Email](https://img.shields.io/badge/Email-poul%40poulmhiripiri.co.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmhiripiri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-poulmhiripiri.co.uk-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](poulmhiripiri.co.uk)
+[![Email](https://img.shields.io/badge/Email-poul%40poulmhiripiri.co.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poul@poulmhiripiri.co.uk)
 
 📍 Worcestershire, United Kingdom  
 🌍 Portfolio: `www.poulmhiripiri.co.uk`  
@@ -87,7 +87,7 @@ I am targeting roles such as:
 | Skill / Capability | Recruiter-Facing Project |
 |---|---|
 | AWS Cloud Security Architecture, S3, CloudFront OAC, ACM, Route 53, CI/CD | [Secure AWS Static Website CI/CD & Cloud Security Architecture] (https://github.com/poulmhiripiri/Secure-Cloud-Native-Web-Architecture-AWS-CI-CD-Cloud-Security-DevSecOps) |
-| Wazuh SIEM Deployment, Endpoint Monitoring, Threat Intelligence and Slack Alerting | [Enterprise Wazuh SIEM Deployment](YOUR_WAZUH_PROJECT_REPOSITORY_URL_HERE) |
+| Wazuh SIEM Deployment, Endpoint Monitoring, Threat Intelligence and Slack Alerting | [Enterprise Wazuh SIEM Deployment](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting) |
 | Phishing Investigation, IOC Analysis, Email Security and DNS Controls | [Phishing Email Investigation & DNS Security Controls](YOUR_PHISHING_PROJECT_REPOSITORY_URL_HERE) |
 | Vulnerability Management, Asset Visibility, Patch Governance and Cyber Risk Reporting | [Enterprise Qualys VMDR Cyber Risk Governance Lab](YOUR_QUALYS_PROJECT_REPOSITORY_URL_HERE) |
 | Endpoint Security, Patch Management, Device Control and Browser Hardening | [ManageEngine Endpoint Central Security Engineering](YOUR_MANAGEENGINE_PROJECT_REPOSITORY_URL_HERE) |
