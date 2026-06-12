@@ -96,6 +96,10 @@ I am targeting roles such as:
 | Network Security, Firewalling, Monitoring and Infrastructure Resilience | [Network & Infrastructure Security Portfolio](https://github.com/poulmhiripiri/enterprise-it-operations-security-lab) |
 | SOC Investigation, Log Analysis, SIEM Alerts, Monitorig Theat Intelligence Slack Alerting and Incident Response Workflow  | [SOC / Detection Engineering Lab](https://github.com/poulmhiripiri/Enterprise-Wazuh-SIEM-Deployment-with-Endpoint-Monitoring-Threat-Intelligence-and-Slack-Alerting) |
 | Linux-SSH-MFA-Hardening-with-Google-Authenticator | [Linux-SSH-MFA-Hardening-with-Google-Authenticator Lab](https://github.com/poulmhiripiri/Linux-SSH-MFA-Hardening-with-Google-Authenticator-PAM) |
+| Care-Data-Protection-GRC-Gap-Assessment | [Care-Data-Protection-GRC-Gap-Assessment](https://github.com/poulmhiripiri/Care-Data-Protection-GRC-Gap-Assessment/tree/main) |
+
+
+
 
 ---
 
